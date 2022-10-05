@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Washington GT',
   tagline: 'Technology is beacon',
-  url: 'https://baiyungao.github.io',
-  baseUrl: '/wgt/',
+  url: 'https://team.iiibc.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
