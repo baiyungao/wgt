@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwgt=self.webpackChunkwgt||[]).push([[6558],{6494:t=>{t.exports=JSON.parse('{"permalink":"/wgt/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
