@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwgt=self.webpackChunkwgt||[]).push([[6993],{1425:a=>{a.exports=JSON.parse('{"label":"aks","permalink":"/blog/tags/aks","allTagsPath":"/blog/tags","count":1}')}}]);
