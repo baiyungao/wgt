@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baiyungao.github.io/wgt/blog</id>
-    <title>t-power = technology + team &amp;#8734; :) Blog</title>
+    <title>t-power = technology + team = :) Blog</title>
     <updated>2022-10-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://baiyungao.github.io/wgt/blog"/>
-    <subtitle>t-power = technology + team &amp;#8734; :) Blog</subtitle>
+    <subtitle>t-power = technology + team = :) Blog</subtitle>
     <icon>https://baiyungao.github.io/wgt/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Cloud Native Practice in a nutshell]]></title>
