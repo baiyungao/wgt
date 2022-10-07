@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwgt=self.webpackChunkwgt||[]).push([[6784],{2375:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/aks","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

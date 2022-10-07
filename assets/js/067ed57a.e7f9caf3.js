@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwgt=self.webpackChunkwgt||[]).push([[4331],{6653:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/wgt/blog/tags/hello","allTagsPath":"/wgt/blog/tags","count":1}')}}]);

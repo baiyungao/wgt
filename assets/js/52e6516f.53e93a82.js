@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwgt=self.webpackChunkwgt||[]).push([[3943],{536:a=>{a.exports=JSON.parse('{"label":"Cloud-Native","permalink":"/blog/tags/cloud-native","allTagsPath":"/blog/tags","count":1}')}}]);

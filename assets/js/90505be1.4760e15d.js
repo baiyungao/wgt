@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwgt=self.webpackChunkwgt||[]).push([[7976],{8360:t=>{t.exports=JSON.parse('{"permalink":"/wgt/blog/tags/cloud-native","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
