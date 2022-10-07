@@ -60,7 +60,7 @@ const config = {
         title: 't-Power',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/power.svg',
+          src: 'img/power.png',
         },
         items: [
           {
