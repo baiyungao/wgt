@@ -128,7 +128,8 @@ az aks create --resource-group pilot --name pilothelmks --location eastus --atta
 C:\>az aks create --resource-group pilot --name pilothelmks --location eastus --attach-acr pilothelmacr --generate-ssh-keys
 ~~~
 ~~~JSON
-AAD role propagation done[############################################]  100.0000%{
+AAD role propagation done[############################################]  100.0000%
+{
   "aadProfile": null,
   "addonProfiles": null,
   "agentPoolProfiles": [
