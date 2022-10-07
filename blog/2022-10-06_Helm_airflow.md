@@ -311,8 +311,9 @@ Please add "C:\Users\BenGao\.azure-kubelogin" to your search PATH so the `kubelo
 
 az aks get-credentials --resource-group pilot --name pilothelmks
 
-helm repo add apache-airflow https://airflow.apache.org
-helm upgrade --install airflow apache-airflow/airflow --namespace airflow --create-namespace
+> helm repo add apache-airflow https://airflow.apache.org
+
+> helm upgrade --install airflow apache-airflow/airflow --namespace airflow --create-namespace
 
 
 Release "airflow" does not exist. Installing it now.
