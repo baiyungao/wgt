@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 't-power = technology + team &#8734; :)',
+  title: 't-power = technology + team = :)',
   tagline: 'The infinity power from technology & team work',
   url: 'https://baiyungao.github.io',
   baseUrl: '/wgt/',
@@ -59,7 +59,7 @@ const config = {
       navbar: {
         title: 't-Power',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'power Logo',
           src: 'img/power.png',
         },
         items: [
