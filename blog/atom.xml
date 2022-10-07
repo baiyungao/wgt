@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://team.iiibc.com/blog</id>
-    <title>Washington GT Blog</title>
+    <title>:: t-Power Blog</title>
     <updated>2022-10-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://team.iiibc.com/blog"/>
-    <subtitle>Washington GT Blog</subtitle>
+    <subtitle>:: t-Power Blog</subtitle>
     <icon>https://team.iiibc.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Cloud Native Practice in a nutshell]]></title>
