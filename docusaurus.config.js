@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 't-power = technology + team &infin; :)',
+  title: 't-power = technology + team &#8734; :)',
   tagline: 'The infinity power from technology & team work',
   url: 'https://baiyungao.github.io',
   baseUrl: '/wgt/',
