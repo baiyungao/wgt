@@ -12,7 +12,8 @@
         <id>cloud_native_nutshell</id>
         <link href="https://team.iiibc.com/blog/cloud_native_nutshell"/>
         <updated>2022-10-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h1>The difference of Cloud</h1><h1>What is Cloud Native</h1>]]></content>
+        <summary type="html"><![CDATA[Quick Peek on Cloud]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="quick-peek-on-cloud">Quick Peek on Cloud<a class="hash-link" href="#quick-peek-on-cloud" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-difference-of-cloud">The difference of Cloud<a class="hash-link" href="#the-difference-of-cloud" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-cloud-native">What is Cloud Native<a class="hash-link" href="#what-is-cloud-native" title="Direct link to heading">​</a></h2>]]></content>
         <author>
             <name>Ben Gao</name>
             <uri>https://www.linkedin.com/in/bengao/</uri>
