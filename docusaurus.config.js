@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Washington GT',
-  tagline: 'Technology is beacon',
+  title: ':: t-Power',
+  tagline: 'The Power of technology and team',
   url: 'https://team.iiibc.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Team Power',
+        title: 't-Power',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
