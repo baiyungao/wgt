@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwgt=self.webpackChunkwgt||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Cloud Native Practice in a nutshell","permalink":"/blog/cloud_native_nutshell"},{"title":"Install Helm of airflow on Azure KS","permalink":"/blog/Helm_airflow"},{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);
