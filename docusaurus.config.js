@@ -6,10 +6,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: ':: t-Power',
+  title: 't-Power =:+',
   tagline: 'The Power of technology and team',
-  url: 'https://team.iiibc.com',
-  baseUrl: '/',
+  url: 'https://baiyungao.github.io',
+  baseUrl: '/wgt/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
