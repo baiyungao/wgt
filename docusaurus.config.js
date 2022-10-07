@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 't-Power =:+',
-  tagline: 'The Power of technology and team',
+  title: 't-power = technology + team &infin; :)',
+  tagline: 'The infinity power from technology & team work',
   url: 'https://baiyungao.github.io',
   baseUrl: '/wgt/',
   onBrokenLinks: 'throw',
@@ -60,7 +60,7 @@ const config = {
         title: 't-Power',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/power.jpg',
+          src: 'img/power.png',
         },
         items: [
           {
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} TeamPower`,
+        copyright: `Copyright © ${new Date().getFullYear()} t-Power`,
       },
       prism: {
         theme: lightCodeTheme,
